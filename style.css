@@ -161,15 +161,15 @@ body{
 
 /* BACKGROUNDS */
 
-#page1{ background-image:url("./images/slide1.png"); }
-#page2{ background-image:url("./images/slide2.png"); }
-#page3{ background-image:url("./images/slide3.png"); }
-#page4{ background-image:url("./images/slide4.png"); }
-#page5{ background-image:url("./images/slide5.png"); }
-#page6{ background-image:url("./images/slide6.png"); }
-#page7{ background-image:url("./images/slide7.png"); }
-#page8{ background-image:url("./images/slide8.png"); }
-#page9{ background-image:url("./images/slide9.png"); }
+#page1{ background-image:url("slide1.png"); }
+#page2{ background-image:url("slide2.png"); }
+#page3{ background-image:url("slide3.png"); }
+#page4{ background-image:url("slide4.png"); }
+#page5{ background-image:url("slide5.png"); }
+#page6{ background-image:url("slide6.png"); }
+#page7{ background-image:url("slide7.png"); }
+#page8{ background-image:url("slide8.png"); }
+#page9{ background-image:url("slide9.png"); }
 
 /* BUTTONS */
 
